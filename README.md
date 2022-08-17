@@ -1,4 +1,4 @@
-# Scale AI NLP Exercise - Polynomial Expansion
+# Polynomial Expansion
 
 ### Problem Statement
 
